@@ -6,4 +6,6 @@ HW#2 - Code an A* heuristic search (graph search, Rich/Knight/Tanimoto version) 
 
 HW#3 - Try out the game playing techniques named as Kalah.
 
+Project - CIFAR-10 (colored image classification)
+
 Reference Link: https://homes.cs.washington.edu/~shapiro/EE562/
