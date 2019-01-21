@@ -1,4 +1,4 @@
-# UW-EE-562 Introduction to Artificial Intelligence
+# EE-562 Introduction to Artificial Intelligence
 
 HW#1 - Solve the Missionary-Cannibal Problem (with 3 missionaries and 3 cannibals) witha RECURSIVE DEPTH-FIRST SEARCH
 
